@@ -1,0 +1,43 @@
+# 回家功課 01
+# 請問最常出現的五個英文單字(統一都轉小寫)
+news ='''
+Sheriff’s deputy Alan Gaston thought they were on the same side.
+
+One man, Mr Gaston, was a high-ranking officer in the Lucas County, Ohio, sheriff’s department with 34 years of experience.
+
+The other was a security guard contracted to protect an Internal Revenue Service (IRS) office in Toledo.
+
+But then the guard pulled his gun. He raised his voice. He put a hand on Mr Gaston’s arm and rested his finger on the trigger.
+
+In a matter of seconds, what began with a routine errand at the IRS escalated into a frightening standoff between a white security guard and a black police officer, who said he heard hate in the guard’s shouts and believed he would be shot.
+
+“You don’t expect to be ambushed by someone who you think is on the same team,” Mr Gaston told The Washington Post.
+
+“I feel there was definitely some racial overtones involved. And I’m not the type of person to throw the race card, I’m just telling you the facts. I looked in his eyes and I saw hate in his eyes.”
+
+He had stopped by the IRS office during his shift on 31 May to ask a question about a letter the agency sent him.
+
+He was in full uniform, his badge and his firearm in clear view.
+
+The security guard, identified in court documents as Seth Eklund, asked Mr Gaston to leave his gun in his patrol car.
+
+When Mr Gaston replied he couldn’t do that, he said Mr Eklund became hostile. Mr Eklund accused Mr Gaston of reaching for his weapon, shouting “get your hands off your gun”, even though Mr Gaston said his hands were visible and nowhere near his holster.
+
+Mr Gaston, who has years of experience teaching defensive tactics, decided it was time for him to leave.
+
+He recalled a wide-eyed elderly couple in the office waiting room watching the exchange, and he said he feared for the bystanders’ safety. Mr Gaston turned to go.
+
+As he walked out of the cramped office, Mr Eklund drew his gun, trained it on Mr Gaston’s back and followed him. At one point, Mr Gaston said, Mr Eklund tried to arrest the uniformed officer.
+
+“He came around the corner with his weapon out, telling me, ‘you had your chance, you’re not going anywhere, I’m detaining you’,” Gaston said.
+
+'''
+
+
+''' output
+the    21
+mr     15
+his    15
+he     12
+a      11
+'''
