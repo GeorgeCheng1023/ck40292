@@ -33,11 +33,13 @@ As he walked out of the cramped office, Mr Eklund drew his gun, trained it on Mr
 
 '''
 
+a = news.lower().split()
+from collections import Counter
+word_counts = Counter(a)
+top_five = word_counts.most_common(5)
+print(top_five)
 
-''' output
-the    21
-mr     15
-his    15
-he     12
-a      11
-'''
+import pandas as pd
+import matplotlib.pyplot as plt
+pd.Series( news.lower().split() ).value_counts()[:5].plot(kind='bar')
+plt.show()
